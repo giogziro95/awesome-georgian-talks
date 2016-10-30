@@ -35,6 +35,10 @@
 * [ბავშვი - უკეთესი მენეჯერი](https://www.youtube.com/watch?v=kF1vv63htEE) by **Davit Gogichaishvili** [0:20:00]
 * [განვითარდი ან მოკვდი](https://www.youtube.com/watch?v=IdfqGDnfDl8) by **Alexander Jejelava** [0:20:19]
 
+#####Neural Networks/Machine Learning
+* ["ხელოვნური ინტელექტი" მეცნიერებისა და ინოვაციების ფესტივალზე](https://www.facebook.com/amigoSmith/videos/vb.1033808908/10209458516273182) by **Paata Gogishvili** [0:53:33]
+* [უკუ გრადიენტის(backpropagation) მეთოდი ნეირონულ ქსელებში](https://www.facebook.com/amigoSmith/videos/10209576561784246/) by **Paata Gogishvili** [1:01:50]
+
 #####Uncategorized
 * [კრეატიულობა და გლობალიზაცია](https://www.youtube.com/watch?v=Ru2FrMNozy0) by **Andro Dgebuadze** [0:23:52]
 * [Our path through abstract revolution](https://www.youtube.com/watch?v=_LPFOacU8rU) by **Ninutsa Nanitashvili** [0:13:43]
